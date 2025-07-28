@@ -30,7 +30,8 @@ with st.sidebar:
     ### Aadesh Srivastava
     **Full-Stack Engineer | AI Explorer**  
     📍 Bangalore, India  
-    ✉️ aadeshsrivastava48@gmail.com
+    ✉️ aadeshsrivastava48@gmail.com  
+    📞 +91-8795969377  
     🧠 RAG Groq-powered career Q&A
     """)
     st.markdown("---")
