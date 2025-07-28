@@ -28,14 +28,14 @@ with st.sidebar:
     st.image("me.jpg", width=200)
     st.markdown("""
     ### Aadesh Srivastava
-    **Full-Stack Engineer | AI Explorer**  
+    **DSA Master | Full-Stack Engineer | AI Explorer**  
     📍 Bangalore, India  
     ✉️ aadeshsrivastava48@gmail.com  
-    📞 +91-8795969377  
-    🧠 RAG Groq-powered career Q&A
+    📞 +918795969377  
+    🧠 RAG Groq-powered career Q&A chatbot
     """)
     st.markdown("---")
-    st.markdown("### 👀 Check my profiles")
+    st.markdown("### 👀 Check out my profiles")
 
     st.markdown(
     """
@@ -102,10 +102,8 @@ st.markdown("""
 - 🧠 Has he worked on any AI or machine learning projects?
 - 🌐 Does he know React or other frontend technologies?
 - 🏢 What kind of companies has he worked with?
-- 🚀 What’s the most impactful project he has done?
-- 📚 What are her educational qualifications?
+- 📚 What are his educational qualifications?
 - 🔧 What tools and platforms is he skilled in?
-- 🛠️ Is he familiar with microservices architecture?
 """)
 if query:
     with st.spinner("Thinking..."):
