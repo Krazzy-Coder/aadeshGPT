@@ -14,6 +14,7 @@ import os
 
 load_dotenv()
 APP_PASSWORD = os.getenv("APP_PASSWORD")
+os.environ["WATCHDOG_OBSERVER_TIMEOUT"] = "1.0"
 
 st.set_page_config(page_title="Ask My Resume", page_icon="📄")
 st.title("📄 Ask My Resume — AI-powered Career Bot")

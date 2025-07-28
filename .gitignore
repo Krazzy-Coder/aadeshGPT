@@ -12,3 +12,4 @@ wheels/
 .env
 uv.lock
 pyproject.toml
+question_log.txt
