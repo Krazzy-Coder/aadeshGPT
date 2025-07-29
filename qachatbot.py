@@ -74,7 +74,7 @@ def setup_chain():
 
     llmGroq = ChatGroq(
         model="llama-3.1-8b-instant",
-        temperature=0.0,
+        temperature=0.5,
         max_retries=2,
     )
 
