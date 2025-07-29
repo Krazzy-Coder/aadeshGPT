@@ -1,0 +1,132 @@
+Aadesh Srivastava
+
+
+aadeshsrivastava48@gmail.com
++918795969377
+Bengaluru, India
+https://leetcode.com/u/aadeshsrivastava48/
+https://www.linkedin.com/in/srivastava-aadesh
+https://github.com/Krazzy-Coder
+
+
+
+------------------------
+Java | Spring Boot | LangChain | FastAPI | MongoDB | React
+
+
+
+------------------------
+Software Engineer with total 4+ years of experience and 3+ years of experience in software development building high-performance software solutions. Passionate about scalable systems, clean code, and solving user-facing problems. Adaptable and quick to learn new technologies. Very passionate about learning at exploring AI at this time. He has been enjoying, learning many Generative AI concepts since months and bringing crazy ideas to life. Soon he will be putting his hands on and go deeper into core machine learning concepts. He believes that learning AI at this time is much fruitful and rewarding than any other technology or tech at this point of time. He is very very good at Data Structures & Algorithms(DSA) and even today he is very consistent with it. He is also very very good at Java and Spring Boot.
+
+
+Work Experience
+------------------------
+Software Engineer
+Cisco
+03/2022 - Present
+Bengaluru
+- Built a real-time Team Performance Dashboard using a scalable front-end architecture, enabling supervisors to track key agent metrics instantly — boosted visibility into team KPIs by 3x. 
+- Launched the Barge-in supervisor feature in production, enabling live call monitoring and faster escalations, directly improving support resolution time. 
+- Led zero-downtime production deployments and implemented rollback-safe validation workflows for Agent Desktop microservices, improving release stability. 
+- Reduced manual QA effort by 60% by automating critical UI workflows across Agent Desktop, Portal, and Control Hub using Robot framework, Cypress and Playwright, improving test coverage and regression reliability. 
+- Improved API latency by 40% on the  config-service  by implementing advanced filtering, payload optimization, and concurrent load testing — enhanced scalability under high traffic. 
+- Migrated 100+ test cases from Cypress to Playwright , cutting test execution time by 20% and reducing flaky failures by 30%, strengthening CI/CD confidence. 
+
+
+
+Assistant System Engineer
+Tata Consultancy Services
+07/2021 - 03/2022
+Client - Stellantis
+Bengaluru
+- Designed and deployed scalable serverless utilities using AWS Lambda , CloudFormation , and SNS , automating daily ops and reducing manual workload by 40%. 
+- Strengthened cloud security posture by configuring and monitoring AWS Security Hub , GuardDuty , Macie , and Inspector — improved vulnerability detection and compliance checks across accounts. 
+- Cut compute costs by ~20% by migrating Lambda functions to arm64 architecture , improving performance while reducing runtime resource consumption. 
+- Developed IaC templates to provision and manage cloud infrastructure seamlessly, ensuring consistency across dev, QA, and prod environments. 
+
+
+
+Education
+------------------------
+Bachelor of Technology in Computer Science & Engineering(Specialization in Cloud Computing & Virtualization)
+GLA University, Mathura
+2017-2021
+
+
+
+
+Skills
+------------------------
+-Java
+-Spring Boot
+-LangChain
+-FastAPI
+-Python
+-JavaScript
+-React
+-Amazon Web Services
+-Jenkins
+-MongoDB
+-Playwright
+-Kafka
+-Kibana
+-Microservices
+-REST API
+-Distributed Systems
+-System Design
+-Data Structures & Algorithms
+
+
+
+Personal Projects
+------------------------
+AI-Powered Resume Chatbot (Python + Streamlit + LangChain + Groq)
+07/2025 - Present
+- Built a chatbot using Groq’s LLaMA 3.1 model to answer recruiter questions based on my resume via Retrieval-Augmented Generation(RAG). 
+- Parsed PDF resume, chunked content, embedded using HuggingFace, and stored in FAISS vector database. 
+- Integrated with LangChain’s RAG chain and deployed with a Streamlit interface and secure password access. 
+- Live at : https://krazzy-coder-aadeshgpt.streamlit.app 
+
+
+Journal App – Backend Project
+01/2025 - 04/2025
+- Developed a secure Spring Boot REST API for a journal app with JWT-based authentication, role-based access control (admin/user), and full CRUD functionality for users and journals. 
+- Integrated MongoDB Atlas, Redis caching, and Apache Kafka for scalable data storage and real-time performance optimization. Implemented weekly sentiment email automation using LLM-generated insights via a LangChain-powered FastAPI microservice. 
+
+
+Cost Optimization Automation Utility (Snapshots clean-up)
+Oct 2021 - Dec 2021
+Automated scheduled deletion of old snapshots from central account in multi cross accounts within AWS Organizations for the cost optimization.
+AWS services used - AWS Lambda(in Python), Cloudwatch Eventbridge, Amazon DynamoDB, AWS Config, AWS Service Token Service, AWS Simple Notification Service, etc.
+
+
+Cloud Based Diet Recommendation Web Application
+Jan 2021 - Apr 2021
+Serverless computing web based application hosted on AWS. It uses technologies like HTML, CSS, JAVASCRIPT. It also uses many of AWS services in backend like Amazon S3, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Lex, AWS IAM, AWS Amplify, Amazon Route 53, Amazon Cloudwatch, etc. Based on the inputs like height ,weight, age, gender, activity level, etc, user is provided appropriate diet chart taking care of calories intake per day to improve health. User can also chat with chatbot to provide health info.
+
+
+Android Apps
+- Miwok Android Application
+- Goal Counter Android Application
+
+
+React Based UI Projects
+- TextUtils: React based web application. It is a text utility application which converts text to uppercase, lowercase, remove whitespaces, copies text, count words and characters, calculates reading time, etc.
+- Newskeeda: React based web application. It is a news application which gives latest news for the day.
+
+
+
+Solved 450+ Leetcode problems
+
+
+
+
+
+INTERESTS
+------------------------
+-Machine Learning
+-Generative AI
+-Game Development
+
+
+

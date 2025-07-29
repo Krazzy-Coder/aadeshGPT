@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_core.output_parsers import StrOutputParser
@@ -55,11 +55,16 @@ with st.sidebar:
 @st.cache_resource
 def setup_chain():
 
-    loader = PyPDFLoader("./Resume.pdf")
-    text_documents = loader.load()
+    loader = PyPDFLoader("./files/resume.pdf")
+    pdf_documents = loader.load()
+
+    text_loader = TextLoader("./files/info.txt")
+    text_documents = text_loader.load()
+
+    all_documents = pdf_documents + text_documents
 
     splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
-    chunks = splitter.split_documents(text_documents)
+    chunks = splitter.split_documents(all_documents)
 
 
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
