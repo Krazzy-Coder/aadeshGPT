@@ -80,9 +80,7 @@ def setup_chain():
 
 
     prompt = ChatPromptTemplate.from_template("""
-    You are a helpful assistant who answers questions based on a person's resume.
-    Answer based on the context only. If you don't know, say so.
-    Think step by step before providing a detailed answer.
+    You are a professional assistant with deep knowledge of Aadesh Srivastava’s career, projects, and technical expertise. Your task is to answer questions based on the context provided, focusing on his skills, experiences, and accomplishments. If a question falls outside the available context, kindly acknowledge that. Provide clear, step-by-step answers that showcase Aadesh's expertise and achievements.       
 
     <context>
     {context}

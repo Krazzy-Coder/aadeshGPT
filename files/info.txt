@@ -10,17 +10,20 @@ https://github.com/Krazzy-Coder
 
 
 
-------------------------
-Java | Spring Boot | LangChain | FastAPI | MongoDB | React
+<Top skills>
+
+Java | Spring Boot | LangChain | FastAPI | DSA | React
+
+<Top skills>
 
 
 
 ------------------------
-Software Engineer with total 4+ years of experience and 3+ years of experience in software development building high-performance software solutions. Passionate about scalable systems, clean code, and solving user-facing problems. Adaptable and quick to learn new technologies. Very passionate about learning at exploring AI at this time. He has been enjoying, learning many Generative AI concepts since months and bringing crazy ideas to life. Soon he will be putting his hands on and go deeper into core machine learning concepts. He believes that learning AI at this time is much fruitful and rewarding than any other technology or tech at this point of time. He is very very good at Data Structures & Algorithms(DSA) and even today he is very consistent with it. He is also very very good at Java and Spring Boot.
+Software Engineer with total 4+ years of experience and 3+ years of experience in software development building high-performance software solutions. Passionate about scalable systems, clean code, and solving user-facing problems. Adaptable and quick to learn new technologies. Very passionate about learning at exploring AI at this time. He has been enjoying, learning many Generative AI concepts since months and bringing crazy ideas to life. Soon he will be putting his hands on and go deeper into core machine learning concepts. He believes that learning AI at this time is much fruitful and rewarding than any other technology or tech at this point of time. He is very good at Data Structures & Algorithms(DSA) and even today he is very consistent with it. He is also very good at Java and Spring Boot.
 
 
-Work Experience
-------------------------
+<Work Experience>
+
 Software Engineer
 Cisco
 03/2022 - Present
@@ -44,19 +47,20 @@ Bengaluru
 - Cut compute costs by ~20% by migrating Lambda functions to arm64 architecture , improving performance while reducing runtime resource consumption. 
 - Developed IaC templates to provision and manage cloud infrastructure seamlessly, ensuring consistency across dev, QA, and prod environments. 
 
+<Work Experience>
 
 
-Education
-------------------------
+<Education>
+
 Bachelor of Technology in Computer Science & Engineering(Specialization in Cloud Computing & Virtualization)
 GLA University, Mathura
 2017-2021
 
+<Education>
 
 
+<Skills>
 
-Skills
-------------------------
 -Java
 -Spring Boot
 -LangChain
@@ -76,10 +80,12 @@ Skills
 -System Design
 -Data Structures & Algorithms
 
+<Skills>
 
 
-Personal Projects
-------------------------
+
+<Personal Projects>
+
 AI-Powered Resume Chatbot (Python + Streamlit + LangChain + Groq) (Major Project)
 07/2025 - Present
 - Built a chatbot using Groq’s LLaMA 3.1 model to answer recruiter questions based on my resume via Retrieval-Augmented Generation(RAG). 
@@ -119,14 +125,20 @@ React Based UI Projects
 Solved 450+ Leetcode problems
 
 
+<Personal Projects>
 
 
 
-INTERESTS
-------------------------
+
+
+<INTERESTS>
+
 -Machine Learning
 -Generative AI
 -Game Development
+
+<INTERESTS>
+
 
 
 
