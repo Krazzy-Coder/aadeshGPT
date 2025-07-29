@@ -17,7 +17,7 @@ APP_PASSWORD = os.getenv("APP_PASSWORD")
 os.environ["WATCHDOG_OBSERVER_TIMEOUT"] = "1.0"
 
 st.set_page_config(page_title="Ask My Resume", page_icon="📄")
-st.title("📄 Talk About my Professional Career with my AI-powered Personal Chat Bot🤖")
+st.title("📄 Talk About my Professional Career with my AI-powered Personal Chat Bot 🤖")
 password = st.text_input("Enter password to access the bot", type="password")
 
 if password != APP_PASSWORD:
