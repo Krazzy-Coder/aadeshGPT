@@ -18,18 +18,17 @@ os.environ["WATCHDOG_OBSERVER_TIMEOUT"] = "1.0"
 
 st.set_page_config(page_title="Ask My Resume", page_icon="📄")
 st.title("📄 Talk About my Professional Career with my AI-powered Personal Chat Bot 🤖")
-password = st.text_input("Enter password to access the bot", type="password")
-
-if password != APP_PASSWORD:
-    st.warning("🔐 This bot is private. Please enter the correct password.")
-    st.stop()
 
 with st.sidebar:
+    # password = st.text_input("Enter password to access the bot", type="password")
+    # if password != APP_PASSWORD:
+    #     st.warning("🔐 This bot is private. Please enter the correct password.")
+    #     st.stop()
+    # st.markdown("")
     st.image("me.jpg", width=200)
     st.markdown("""
     ### Aadesh Srivastava
-    **DSA Master | Full-Stack Engineer | AI Explorer**  
-    📍 Bangalore, India  
+    **Full-Stack Engineer | DSA Master | AI Explorer**  
     ✉️ aadeshsrivastava48@gmail.com  
     📞 +918795969377  
     🧠 RAG Groq-powered career Q&A chatbot
