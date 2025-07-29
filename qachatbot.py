@@ -63,7 +63,7 @@ def setup_chain():
 
     all_documents = pdf_documents + text_documents
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=4000, chunk_overlap=500)
     chunks = splitter.split_documents(all_documents)
 
 

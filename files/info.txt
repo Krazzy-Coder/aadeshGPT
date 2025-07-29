@@ -1,4 +1,4 @@
-Name: Aadesh Srivastava
+About Aadesh Srivastava:
 
 
 aadeshsrivastava48@gmail.com
@@ -80,7 +80,7 @@ Skills
 
 Personal Projects
 ------------------------
-AI-Powered Resume Chatbot (Python + Streamlit + LangChain + Groq)
+AI-Powered Resume Chatbot (Python + Streamlit + LangChain + Groq) (Major Project)
 07/2025 - Present
 - Built a chatbot using Groq’s LLaMA 3.1 model to answer recruiter questions based on my resume via Retrieval-Augmented Generation(RAG). 
 - Parsed PDF resume, chunked content, embedded using HuggingFace, and stored in FAISS vector database. 
@@ -88,7 +88,7 @@ AI-Powered Resume Chatbot (Python + Streamlit + LangChain + Groq)
 - Live at : https://krazzy-coder-aadeshgpt.streamlit.app 
 
 
-Journal App – Backend Project
+Journal App – Backend Project (Major Project)
 01/2025 - 04/2025
 - Developed a secure Spring Boot REST API for a journal app with JWT-based authentication, role-based access control (admin/user), and full CRUD functionality for users and journals. 
 - Integrated MongoDB Atlas, Redis caching, and Apache Kafka for scalable data storage and real-time performance optimization. Implemented weekly sentiment email automation using LLM-generated insights via a LangChain-powered FastAPI microservice. 
@@ -100,7 +100,7 @@ Automated scheduled deletion of old snapshots from central account in multi cros
 AWS services used - AWS Lambda(in Python), Cloudwatch Eventbridge, Amazon DynamoDB, AWS Config, AWS Service Token Service, AWS Simple Notification Service, etc.
 
 
-Cloud Based Diet Recommendation Web Application
+Cloud Based Diet Recommendation Web Application (University Final Year Project)
 Jan 2021 - Apr 2021
 Serverless computing web based application hosted on AWS. It uses technologies like HTML, CSS, JAVASCRIPT. It also uses many of AWS services in backend like Amazon S3, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Lex, AWS IAM, AWS Amplify, Amazon Route 53, Amazon Cloudwatch, etc. Based on the inputs like height ,weight, age, gender, activity level, etc, user is provided appropriate diet chart taking care of calories intake per day to improve health. User can also chat with chatbot to provide health info.
 
