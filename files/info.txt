@@ -19,14 +19,14 @@ Java | Spring Boot | LangChain | FastAPI | DSA | React
 
 
 ------------------------
-Software Engineer with total 4+ years of experience and 3+ years of experience in software development building high-performance software solutions. Passionate about scalable systems, clean code, and solving user-facing problems. Adaptable and quick to learn new technologies. Very passionate about learning at exploring AI at this time. He has been enjoying, learning many Generative AI concepts since months and bringing crazy ideas to life. Soon he will be putting his hands on and go deeper into core machine learning concepts. He believes that learning AI at this time is much fruitful and rewarding than any other technology or tech at this point of time. He is very good at Data Structures & Algorithms(DSA) and even today he is very consistent with it. He is also very good at Java and Spring Boot.
+Software Engineer with total 4+ years of experience and 3+ years of experience in software development building high-performance software solutions. Passionate about scalable systems, clean code, and solving user-facing problems. Adaptable and quick to learn new technologies. Very passionate about learning and exploring AI concepts at this time. He has been enjoying, learning many Generative & Agentic AI concepts since months and bringing crazy ideas to life. Soon he will be putting his hands on and dive deeper into core machine learning concepts. He believes that learning AI at this time is much fruitful and rewarding than any other technology or tech at this point of time. He is very good at Data Structures & Algorithms(DSA) and even today he is very consistent with it (does Leetcode everyday). He is also very good at Java and Spring Boot. His problem solving ability is excellent and he is very creative. He has decent understanding of high level and low level system design.
 
 
 <Work Experience>
 
 Software Engineer
 Cisco
-03/2022 - Present
+9 March 2022 - Present
 Bengaluru
 - Built a real-time Team Performance Dashboard using a scalable front-end architecture, enabling supervisors to track key agent metrics instantly — boosted visibility into team KPIs by 3x. 
 - Launched the Barge-in supervisor feature in production, enabling live call monitoring and faster escalations, directly improving support resolution time. 
@@ -39,7 +39,7 @@ Bengaluru
 
 Assistant System Engineer
 Tata Consultancy Services
-07/2021 - 03/2022
+8 July 2021 - 3 March 2022
 Client - Stellantis
 Bengaluru
 - Designed and deployed scalable serverless utilities using AWS Lambda , CloudFormation , and SNS , automating daily ops and reducing manual workload by 40%. 
@@ -106,7 +106,7 @@ Automated scheduled deletion of old snapshots from central account in multi cros
 AWS services used - AWS Lambda(in Python), Cloudwatch Eventbridge, Amazon DynamoDB, AWS Config, AWS Service Token Service, AWS Simple Notification Service, etc.
 
 
-Cloud Based Diet Recommendation Web Application (University Final Year Project)
+Cloud Based Diet Recommendation Web Application (University Final Year Cloud Computing AWS Project)
 Jan 2021 - Apr 2021
 Serverless computing web based application hosted on AWS. It uses technologies like HTML, CSS, JAVASCRIPT. It also uses many of AWS services in backend like Amazon S3, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Amazon Lex, AWS IAM, AWS Amplify, Amazon Route 53, Amazon Cloudwatch, etc. Based on the inputs like height ,weight, age, gender, activity level, etc, user is provided appropriate diet chart taking care of calories intake per day to improve health. User can also chat with chatbot to provide health info.
 
@@ -122,7 +122,7 @@ React Based UI Projects
 
 
 
-Solved 450+ Leetcode problems
+Solved 460+ Leetcode problems
 
 
 <Personal Projects>
